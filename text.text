@@ -1,0 +1,6 @@
+txt2['text'] = '1 уже было'
+            txt2['bg'] = 'yellow'
+            root.update()
+            time.sleep(1)
+            txt2['text'] = '5 ошибок и проиграешь'
+            txt2['bg'] = 'white'
